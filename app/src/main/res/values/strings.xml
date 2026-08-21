@@ -1,0 +1,79 @@
+<resources>
+    <string name="app_name">Funny Sounds</string>
+    <string name="welcom_to_prank_sound">Welcom to Prank Sound! </string>
+    <string name="prank_sound">Prank Sound</string>
+    <string name="home">Home</string>
+    <string name="upload_a_sound_well_amplify_the_fun">Upload a sound.\nWe\’ll amplify the fun.</string>
+    <string name="upload_any_sound_prank_in_action">Upload any sound —\n prank in action!</string>
+    <string name="prank_call">Prank call</string>
+    <string name="prank_call2">Prank Call</string>
+    <string name="trending">Trending</string>
+    <string name="favorite">Favorite</string>
+    <string name="add_to_favorite">Add to favorite</string>
+    <string name="delete_to_favorite">Delete to favorite</string>
+    <string name="cancel">Cancel</string>
+    <string name="okay">Okay</string>
+    <string name="loading">Loading</string>
+    <string name="accept">Accept</string>
+    <string name="return_">RETURN</string>
+    <string name="recall">RECALL</string>
+    <string name="decline">Decline</string>
+    <string name="setting">Setting</string>
+    <string name="off">OFF</string>
+    <string name="on">ON</string>
+    <string name="incoming_call">Incoming call...</string>
+    <string name="share_to">Share to</string>
+    <string name="remove_successfully">Remove successfully</string>
+    <string name="loop">Loop</string>
+    <string name="play_in_background">Play in Background</string>
+    <string name="play_sound_in_repeating_mode">Play sound in repeating mode</string>
+    <string name="custom_delay">Custom delay</string>
+    <string name="set_delay">Set delay</string>
+    <string name="notification_invalid">Invalid time (hrs 1–23, min/sec 1–59)</string>
+    <string name="close">Close</string>
+    <string name="try_again">Try again</string>
+    <string name="connect_to_wifi_use_the_app">Connect to Wi-Fi use the app</string>
+    <string name="no_connection">No Connection</string>
+    <string name="set_delay_sound">Set delay, sound</string>
+    <string name="prank_setting">Prank Settings</string>
+    <string name="language">Language</string>
+    <string name="rate_app">Rate App</string>
+    <string name="share_app">Share App</string>
+    <string name="call_end">Call ended</string>
+    <string name="no_time">00:00</string>
+    <string name="privacy_policy">Privacy Policy</string>
+    <string name="add_custom">Add custom</string>
+    <string name="add_song">Add Songs</string>
+    <string name="get_started">Get started</string>
+    <string name="explore_hilarious_sounds_for_endless_fun">Explore hilarious sounds for endless fun.</string>
+    <string name="this_action_can_contain_ads">This action can contain ads</string>
+
+    <string name="time_hours_minutes_seconds_formatter" translatable="false">%02d:%02d:%02d</string>
+    <string name="time_minutes_seconds_formatter" translatable="false">%02d:%02d</string>
+    <string name="time_seconds_formatter" translatable="false">00:%02d</string>
+
+    <string name="no_internet">No Internet Connection</string>
+    <string name="network_error">Network error, could get data,please try again!</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >4 characters</string>
+    <string name="invalid_username_and_password">please check your username and password</string>
+    <string name="search_error">there is no such recipe name</string>
+
+    <string name="all_permissions_are_granted">All permissions are granted</string>
+    <string name="termofuse">Term of use</string>
+    <string name="add_more">Add more</string>
+    <string name="please_allow_following_permissions_in_settings">Please allow following permissions in settings</string>
+    <string name="the_following_permissions_are_denied">The following permissions are denied</string>
+    <string name="allow">Allow</string>
+    <string name="deny">Deny</string>
+    <string name="quit">Quit</string>
+
+    <string name="allow_camera_access">Allow camera access</string>
+    <string name="the_app_needs_camera_permission_to_display_video_calls">The app needs Camera permission to display video calls.</string>
+    <string name="Allow">Allow</string>
+
+
+
+
+
+</resources>

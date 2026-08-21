@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="color_text">#D1D2DC</color>
+    <color name="main_color">#2BFFFF</color>
+
+    <!--    color by position-->
+    <color name="pos_0">#FFE393</color>
+    <color name="pos_1">#FCA747</color>
+    <color name="pos_2">#9FA3BA</color>
+    <color name="pos_3">#FAF04B</color>
+    <color name="pos_4">#7EC4EB</color>
+    <color name="pos_5">#3BDACD</color>
+    <color name="pos_6">#F55497</color>
+    <color name="pos_7">#1AC64E</color>
+    <color name="pos_8">#FF8832</color>
+    <color name="pos_9">#7EC4EB</color>
+
+    <color name="pos_cover_trending_0">#FCDADD</color>
+    <color name="pos_cover_trending_1">#E1E8EE</color>
+    <color name="pos_cover_trending_2">#FDEBD1</color>
+    <color name="pos_cover_trending_3">#FDF9D3</color>
+    <color name="pos_cover_trending_4">#D2F2D8</color>
+
+    <color name="pos_thumb_trending_0">#F55497</color>
+    <color name="pos_thumb_trending_1">#7EC4EB</color>
+    <color name="pos_thumb_trending_2">#FCA747</color>
+    <color name="pos_thumb_trending_3">#FAF04B</color>
+    <color name="pos_thumb_trending_4">#1AC64E</color>
+
+    <color name="color_off_delay">#E2E1E0</color>
+    <color name="color_onl_delay">#FF8832</color>
+    <color name="color_off_text_delay">#1D1B1B</color>
+
+    <color name="color_onl_text_delay">#FFFFFF</color>
+
+    <color name="hint_custom_delay">#ACACAC</color>
+</resources>
